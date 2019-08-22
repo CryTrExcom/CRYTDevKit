@@ -14,7 +14,7 @@ No passphrase will leave your JavaSscript, check NRS.sendRequest
 
 Find a public node with open API and cors enabled on 
 
-httpS://crytrex.com
+https://crytrex.com
 
 Insert this into server variable of js/nrs.js
 
